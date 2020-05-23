@@ -5,7 +5,17 @@ Aquesta pràctica pertany a l'assignatura Tipologia i cicle de vida de les dades
 
 ## Objectiu
 
-Analitzar el dataset pokémon descarregable al següent enllaç: https://www.kaggle.com/rounakbanik/pokemon i trobar totes aquelles curiositats que puguin fer millorar el nostre equip Pokémon.
+Analitzar el dataset *pokémon.csv* descarregable al següent enllaç: https://www.kaggle.com/rounakbanik/pokemon. L'anàlisi pretén respondre a les següents preguntes:
+
+- És possible construir un classificador per identificador els pokemons llegendaris?
+
+- Quina correlació existeix entre l'alçada i el pes d'un pokemon amb les seves estadístiques base?
+
+- Quins Pokémons tenen els stats més alts?
+
+- Quina efectivitat hi ha entre tipus de Pokémons?
+
+- Quins pokémons són més feliços?
 
 ## Equip de treball
 
