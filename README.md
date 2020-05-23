@@ -22,7 +22,7 @@ Analitzar el dataset *pokémon.csv* descarregable al següent enllaç: https://w
 La pràctica ha estat realitzada pels següents membres:
 
 - **Joel Santacana**: Graduat en Administració i Direcció d'Empreses per la Universitat de Barcelona (UB).
-- **Xavier Paricio**: Graduat en Engineryia Aeroespacial per la Universitat Politècnica de Catalunya (UPC). 
+- **Xavier Paricio**: Graduat en Enginyeria Aeroespacial per la Universitat Politècnica de Catalunya (UPC). 
 
 ## Fitxers de còdig font
 
