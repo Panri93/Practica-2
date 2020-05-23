@@ -2,7 +2,7 @@
 title: "Pokémon dataset"
 subtitle: "Tipologia i cicle de vida de les dades - Pràctica 2"
 author: "Joel Santacana i Xavier Paricio"
-date: " 21 Maig 2020"
+date: " 23 Maig 2020"
 output:
   html_document:
     highlight: default
