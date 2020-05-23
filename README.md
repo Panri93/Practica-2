@@ -1,7 +1,11 @@
 # Pràctica 2: Pokémon Dataset
 
 ## Descripció 
-Aquesta pràctica pertany a l'assignatura Tipologia i cicle de vida de les dades que forma part del Màster en Ciència de dades de la Universitat Oberta de Catalunya (UOC). La pràctica està orientada a aprendre a identificar les dades rellevants per a un projecte analític i usar les eines d'integració, validació i neteja de les mateixes. La pràctica s'ha realitzat amb el programari lliure RStudio i en concret, utilitzant l'eina RMarkdown que permet construir documents que combinen codi i text.
+Aquesta pràctica pertany a l'assignatura Tipologia i cicle de vida de les dades que forma part del Màster en Ciència de dades de la Universitat Oberta de Catalunya (UOC). La pràctica està orientada a aprendre a identificar les dades rellevants per a un projecte analític i usar les eines d'integració, validació i neteja de les mateixes. La pràctica s'ha realitzat amb el programari lliure RStudio i en concret, utilitzant l'eina RMarkdown que permet construir documents que combinen codi i text. 
+
+## Objectiu
+
+Analitzar el dataset pokémon descarregable al següent enllaç: https://www.kaggle.com/rounakbanik/pokemon i trobar totes aquelles curiositats que puguin fer millorar el nostre equip Pokémon.
 
 ## Equip de treball
 
