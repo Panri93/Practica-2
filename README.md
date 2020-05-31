@@ -31,7 +31,7 @@ La pràctica ha estat realitzada pels següents membres:
 
 ## Fitxers de sortida
 
-- **Practica2.zip**. Conté els resultats obtinguts.
+- **Practica2.zip**. Conté els resultats obtinguts (sense codi)
 - **pokemon_net.csv**. Conté el dataset netejat.
 
 ## Recursos
