@@ -27,11 +27,11 @@ La pràctica ha estat realitzada pels següents membres:
 ## Fitxers de còdig font
 
 - **pokemon.csv**. Conté les dades que s'han analitzat.
-- **practica2.Rmd**. Conté tot el codi amb el qual s'han obtingut els resultats.
+- **Practica2.Rmd**. Conté tot el codi amb el qual s'han obtingut els resultats.
 
 ## Fitxers de sortida
 
-- **Practica2.html**. Conté els resultats obtinguts.
+- **Practica2.zip**. Conté els resultats obtinguts.
 - **pokemon_net.csv**. Conté el dataset netejat.
 
 ## Recursos
